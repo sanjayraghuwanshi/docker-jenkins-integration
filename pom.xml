@@ -7,14 +7,12 @@
     <groupId>org.example</groupId>
     <artifactId>Project_1</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <source>1.8</source>
-    <target>1.8</target>
 
     <properties>
-        <maven.compiler.source>16</maven.compiler.source>
-        <maven.compiler.target>16</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
-<build>
-    <finalName>docker-jenkins-integration</finalName>
-</build>
+    <build>
+        <finalName>docker-jenkins-integration</finalName>
+    </build>
 </project>

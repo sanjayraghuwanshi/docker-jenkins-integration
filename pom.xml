@@ -13,6 +13,6 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
     <build>
-        <finalName>docker-jenkins-integration</finalName>
+        <finalName>dockerjenkins</finalName>
     </build>
 </project>
